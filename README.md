@@ -1,2 +1,2 @@
 # WebScraping-bs4
-A simple project to scrape Indeed website to get job for certain title.
+A simple project to scrape a website to get some data for it.
